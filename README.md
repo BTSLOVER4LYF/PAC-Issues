@@ -2,15 +2,15 @@
 
 Issue format
 
-PAC Version
+PAC Version:
 
-Plugin List
+Plugin List:
 
-ProtocolLib Version
+ProtocolLib Version:
 
-Server Version
+Server Version:
 
-Plugin List
+Plugin List:
 
-Description of the bug
+Description of the bug:
 
