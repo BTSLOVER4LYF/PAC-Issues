@@ -1,10 +1,16 @@
 # PAC-Issues
 
-Issue format:
+Issue format
 
-PAC Version:
-Plugin List:
-ProtocolLib Version:
-Server Version:
-Plugin List:
-Description of the bug:
+PAC Version
+
+Plugin List
+
+ProtocolLib Version
+
+Server Version
+
+Plugin List
+
+Description of the bug
+
